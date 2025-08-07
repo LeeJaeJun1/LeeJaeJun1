@@ -4,6 +4,8 @@
 
 [My Velog](https://velog.io/@jaejun03/posts)
 
+<br>
+
 ## 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
 - [JAVA 객체지향이란?](https://velog.io/@jaejun03/JAVA-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%B4%EB%9E%80)
