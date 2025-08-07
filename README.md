@@ -2,7 +2,7 @@
 
 ## 📖 Blog
 
-(https://velog.io/@jaejun03/posts)
+[Velog](https://velog.io/@jaejun03/posts)
 
 ## 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
