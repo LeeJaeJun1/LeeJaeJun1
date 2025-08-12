@@ -14,6 +14,7 @@
 - [JAVA의 데이터 타입](https://velog.io/@jaejun03/JAVA-Java%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85)
 - [JAVA의 메모리 구조 및 Static](https://velog.io/@jaejun03/JAVA-Java-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-Static)
 - [GitHub 협업](https://velog.io/@jaejun03/GitHub-GitHub%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
+- [GitBracnh 전략](https://velog.io/@jaejun03/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-Git-flow-GitHub-flow)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
