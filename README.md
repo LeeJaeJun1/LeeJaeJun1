@@ -10,6 +10,7 @@
 
 ## 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
+- [백준 - 2508번 스도쿠](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-2508%EB%B2%88-%EC%8A%A4%EB%8F%84%EC%BF%A0-C)
 - [Java의 상속과 오버라이딩](https://velog.io/@jaejun03/Java-%EC%83%81%EC%86%8D)
 - [GitBranch 전략](https://velog.io/@jaejun03/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-Git-flow-GitHub-flow)
 - [백준 - 15686번 치킨 배달](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-15686%EB%B2%88-%EC%B9%98%ED%82%A8-%EB%B0%B0%EB%8B%AC-C)
