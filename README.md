@@ -13,6 +13,7 @@
 
 #### 백준
 
+- [[백준] 동전 1](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-2293%EB%B2%88-%EB%8F%99%EC%A0%84-1-C)
 - [[백준] N-Queen](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-9663%EB%B2%88-N-Queen-C)
 - [[백준] 스도쿠](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-2508%EB%B2%88-%EC%8A%A4%EB%8F%84%EC%BF%A0-C)
 - [[백준] 치킨 배달](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-15686%EB%B2%88-%EC%B9%98%ED%82%A8-%EB%B0%B0%EB%8B%AC-C)
