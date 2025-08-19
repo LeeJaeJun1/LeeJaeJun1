@@ -13,6 +13,8 @@
 
 #### 백준
 
+- [[백준] 정수 삼각형](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-1932%EB%B2%88-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95-C)
+- [[백준] 동전](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-9084%EB%B2%88-%EB%8F%99%EC%A0%84-C)
 - [[백준] 동전 1](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-2293%EB%B2%88-%EB%8F%99%EC%A0%84-1-C)
 - [[백준] N-Queen](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-9663%EB%B2%88-N-Queen-C)
 - [[백준] 스도쿠](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-2508%EB%B2%88-%EC%8A%A4%EB%8F%84%EC%BF%A0-C)
