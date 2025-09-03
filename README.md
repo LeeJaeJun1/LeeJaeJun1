@@ -4,15 +4,6 @@
 ## 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
 
-#### 백준
-
-- [[백준] 정수 삼각형](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-1932%EB%B2%88-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95-C)
-- [[백준] 동전](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-9084%EB%B2%88-%EB%8F%99%EC%A0%84-C)
-- [[백준] 동전 1](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-2293%EB%B2%88-%EB%8F%99%EC%A0%84-1-C)
-- [[백준] N-Queen](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-9663%EB%B2%88-N-Queen-C)
-- [[백준] 스도쿠](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-2508%EB%B2%88-%EC%8A%A4%EB%8F%84%EC%BF%A0-C)
-- [[백준] 치킨 배달](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-15686%EB%B2%88-%EC%B9%98%ED%82%A8-%EB%B0%B0%EB%8B%AC-C)
-
 #### 공부
 
 - [[HTTP] HTTP 웹 기본지식 #1 인터넷 네트워크 TCP, UDP, PORT, DNS](https://velog.io/@jaejun03/%EA%B9%80%EC%98%81%ED%95%9CHTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D-1-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-TCP-UDP-PORT-DNS)
@@ -24,6 +15,15 @@
 - [[JAVA] JAVA의 메모리 구조 및 Static](https://velog.io/@jaejun03/JAVA-Java-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-Static)
 - [[GIT] GitBranch 전략](https://velog.io/@jaejun03/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-Git-flow-GitHub-flow)
 - [[GIT] GitHub 협업](https://velog.io/@jaejun03/GitHub-GitHub%EB%A1%9C-%ED%98%91%EC%97%85%ED%95%98%EA%B8%B0)
+
+#### 백준
+- [[백준] 정수 삼각형](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-1932%EB%B2%88-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95-C)
+- [[백준] 동전](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-9084%EB%B2%88-%EB%8F%99%EC%A0%84-C)
+- [[백준] 동전 1](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-2293%EB%B2%88-%EB%8F%99%EC%A0%84-1-C)
+- [[백준] N-Queen](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-9663%EB%B2%88-N-Queen-C)
+- [[백준] 스도쿠](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-2508%EB%B2%88-%EC%8A%A4%EB%8F%84%EC%BF%A0-C)
+- [[백준] 치킨 배달](https://velog.io/@jaejun03/%EB%B0%B1%EC%A4%80-15686%EB%B2%88-%EC%B9%98%ED%82%A8-%EB%B0%B0%EB%8B%AC-C)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
