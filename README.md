@@ -1,12 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jj030207)](https://solved.ac/jj030207/)
 <br>
 
-## 📖 Blog
-
-[My Velog](https://velog.io/@jaejun03/posts)
-
-<br>
-
 ## 🤖 Recent Blog Posting 
 <!-- BLOG-POST-LIST:START -->
 
