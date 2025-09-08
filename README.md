@@ -8,8 +8,7 @@
 
 - [[HTTP] HTTP 웹 기본지식 #3 HTTP 기본](https://velog.io/@jaejun03/%EA%B9%80%EC%98%81%ED%95%9CHTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D-3-HTTP-%EA%B8%B0%EB%B3%B8)
 - [[HTTP] HTTP 웹 기본지식 #2 URI와 웹 브라우저 요청 흐름](https://velog.io/@jaejun03/%EA%B9%80%EC%98%81%ED%95%9CHTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D-2-URI%EC%99%80-%EC%9B%B9-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9A%94%EC%B2%AD-%ED%9D%90%EB%A6%84)
-- [[HTTP] HTTP 웹 기본지식 #1 인터넷 네트워크 TCP, UDP, PORT, DNS](https://velog.io/@jaejun03/%EA%B9%80%EC%98%81%ED%95%9CHTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D-1-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-TCP-UDP-PORT-DNS)
-- [[HTTP] HTTP 웹 기본지식 #1 인터넷 네트워크 IP(인터넷 프로토콜)](https://velog.io/@jaejun03/%EA%B9%80%EC%98%81%ED%95%9CHTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D-1-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-IP%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
+- [[HTTP] HTTP 웹 기본지식 #1 인터넷 네트워크](https://velog.io/@jaejun03/%EA%B9%80%EC%98%81%ED%95%9CHTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D-1-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-IP%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
 - [[JAVA] 객체지향이란?](https://velog.io/@jaejun03/Java-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%B4%EB%9E%80)
 - [[JAVA] 인터페이스](https://velog.io/@jaejun03/Java-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 - [[JAVA] Java의 상속과 오버라이딩](https://velog.io/@jaejun03/Java-%EC%83%81%EC%86%8D)
