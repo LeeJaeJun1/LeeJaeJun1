@@ -15,5 +15,10 @@
 - [[JPA] JPA 소개](https://velog.io/@jaejun03/%EB%8F%84%EC%84%9C%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1-JPA-%EC%86%8C%EA%B0%9C)
 - [[JPA] JPA 시작](https://velog.io/@jaejun03/%EB%8F%84%EC%84%9C%EC%9E%90%EB%B0%94-ORM-%ED%91%9C%EC%A4%80-JPA-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2-JPA-%EC%8B%9C%EC%9E%91)
 
+<br>
+
+- [[Spring] Soft Delete vs Hard Delete](https://velog.io/@jaejun03/Spring-Soft-Delete-vs-Hard-Delete)
+- [[Spring] Page vs Slice](https://velog.io/@jaejun03/Spring-Page%EC%99%80-Slice)
+
 <!-- BLOG-POST-LIST:END -->
 
