@@ -1,6 +1,3 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jj030207)](https://solved.ac/jj030207/)
-<br>
-
 ## 📖 Tech Blog 
 <!-- BLOG-POST-LIST:START -->
 - [[HTTP] 인터넷 네트워크](https://velog.io/@jaejun03/%EA%B9%80%EC%98%81%ED%95%9CHTTP-%EC%9B%B9-%EA%B8%B0%EB%B3%B8%EC%A7%80%EC%8B%9D-1-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-IP%EC%9D%B8%ED%84%B0%EB%84%B7-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
