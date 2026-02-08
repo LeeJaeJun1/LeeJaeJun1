@@ -18,7 +18,7 @@
 - [[Spring] Page vs Slice](https://velog.io/@jaejun03/Spring-Page%EC%99%80-Slice)
 
 <br>
-- [[Redis]캐시](https://velog.io/@jaejun03/Redis-%EC%BA%90%EC%8B%9C)
+- [[Redis] 캐시](https://velog.io/@jaejun03/Redis-%EC%BA%90%EC%8B%9C)
 
 <!-- BLOG-POST-LIST:END -->
 
