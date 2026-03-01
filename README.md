@@ -11,3 +11,8 @@
 
 ## 🔗 Links
 [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@jaejun03/posts)
+
+
+## 📊 Stats
+
+![BOJ](https://mazassumnida.wtf/api/v2/generate_badge?boj=jj030207)
