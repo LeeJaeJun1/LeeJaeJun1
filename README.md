@@ -9,6 +9,7 @@
 - 인하대학교 컴퓨터공학과 (2022 ~ )
 - UMC 9th Spring Junior Challenger (2025.08 ~ 2026.02)
 - UMC 10th Spring Senior Challenger (2026.03 ~ )
+- IBAS 개발팀원 (2026.03 ~ )
 
 <br>
 
